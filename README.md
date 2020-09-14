@@ -1,12 +1,10 @@
-# numFinder 
-
-
-![Ekran Resmi 2020-09-14 23 19 41](https://user-images.githubusercontent.com/68608836/93134287-3aa22200-f6e1-11ea-8eaf-12685e9047fc.png)
-![Ekran Resmi 2020-09-14 23 19 51](https://user-images.githubusercontent.com/68608836/93134292-3bd34f00-f6e1-11ea-99c6-2351dc6c6677.png)
-![Ekran Resmi 2020-09-14 23 20 03](https://user-images.githubusercontent.com/68608836/93134296-3c6be580-f6e1-11ea-8e33-4672fb8696ce.png)
-![Ekran Resmi 2020-09-14 23 21 52](https://user-images.githubusercontent.com/68608836/93134298-3d047c00-f6e1-11ea-8d71-de3ad9ef2ca6.png)
-![Ekran Resmi 2020-09-14 23 22 03](https://user-images.githubusercontent.com/68608836/93134300-3d047c00-f6e1-11ea-9570-4d453d62087e.png)
-![Ekran Resmi 2020-09-14 23 22 12](https://user-images.githubusercontent.com/68608836/93134302-3d9d1280-f6e1-11ea-8609-f6d9df8364bf.png)
-![Ekran Resmi 2020-09-14 23 22 22](https://user-images.githubusercontent.com/68608836/93134303-3e35a900-f6e1-11ea-8814-ca3cb8114514.png)
-![Ekran Resmi 2020-09-14 23 22 31](https://user-images.githubusercontent.com/68608836/93134304-3ece3f80-f6e1-11ea-9b20-221786bb343c.png)
-
+![Ekran Resmi 2020-09-14 23 19 41](https://user-images.githubusercontent.com/68608836/93136632-ec8f1d80-f6e4-11ea-8c1e-a21720f23e42.png)
+![Ekran Resmi 2020-09-14 23 19 51](https://user-images.githubusercontent.com/68608836/93136635-eef17780-f6e4-11ea-8c13-8cd2c6fbd10a.png)
+![Ekran Resmi 2020-09-14 23 20 03](https://user-images.githubusercontent.com/68608836/93136639-ef8a0e00-f6e4-11ea-8c5b-c4bf4229e721.png)
+![Ekran Resmi 2020-09-14 23 21 52](https://user-images.githubusercontent.com/68608836/93136643-f022a480-f6e4-11ea-9014-1ce79ac554c7.png)
+![Ekran Resmi 2020-09-14 23 22 03](https://user-images.githubusercontent.com/68608836/93136646-f0bb3b00-f6e4-11ea-9c8c-82ac539a2cc4.png)
+![Ekran Resmi 2020-09-14 23 22 31](https://user-images.githubusercontent.com/68608836/93136647-f153d180-f6e4-11ea-9381-c8baa7dee4df.png)
+![Ekran Resmi 2020-09-14 23 45 33](https://user-images.githubus
+![Ekran Resmi 2020-09-14 23 46 49](https://user-images.githubusercontent.com/68608836/93136652-f31d9500-f6e4-11ea-9ed6-1ae8cd9ae9a7.png)
+ercontent.com/68608836/93136648-f1ec6800-f6e4-11ea-8e24-e8f77a795565.png)
+![Ekran Resmi 2020-09-14 23 46 31](https://user-images.githubusercontent.com/68608836/93136651-f284fe80-f6e4-11ea-992e-b6a6f37e4eaa.png)
